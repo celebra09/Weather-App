@@ -61,4 +61,5 @@ div.wind {
 }
 .link {
   margin: 20px auto;
+  display: inline;
 }
